@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# React (CRA or Vite)
+*.env
+.env.*
+!.env.example
+.cache/
+.vite/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Testing
+coverage/
+jest-test-results.json
+
+# OS
+Thumbs.db
+
+# Optional: ignore local db, uploads, etc.
+tmp/
+uploads/
