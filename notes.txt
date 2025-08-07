@@ -1,1 +1,4 @@
 1. Build code to fix ur code? hmm
+2. The html side of things is actually very simple. Just lay out what the structure will be.
+3. It is oftem tempting to start to think in terms of style when doing html, always have the discipline 
+    to leave that to the css to handle.
